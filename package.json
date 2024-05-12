@@ -1,5 +1,5 @@
 {
-  "name": "electro-lite",
+  "name": "electron-test",
   "version": "1.0.0",
   "description": "Electron app for testing",
   "main": "main.js",
