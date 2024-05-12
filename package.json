@@ -1,0 +1,14 @@
+{
+  "name": "electro-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Abrar74774",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
